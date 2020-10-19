@@ -1,0 +1,386 @@
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+GitHub, Inc.
+Font Awesome 5 brands github.svg Octicons-logo-github.svg
+GitHub's current logo
+Type of business	Subsidiary
+Type of site	Collaborative version control
+Available in	English
+Founded	February 8, 2008; 12 years ago (as Logical Awesome LLC)
+Headquarters	San Francisco, California, United States
+Area served	Worldwide
+Founder(s)	
+Tom Preston-Werner
+Chris Wanstrath
+P. J. Hyett
+Scott Chacon
+CEO	Nat Friedman
+Key people	
+Carrie Olesen (CHRO)
+Mike Taylor (CFO)
+Industry	Collaborative version control (GitHub)
+Blog host (GitHub Gists)
+Package repository (NPM)
+Employees	1079[1]
+Parent	Microsoft
+URL	github.com Edit this at Wikidata
+Alexa rank	Positive decrease 80 (January 2020)[2]
+Registration	Optional (required for creating and joining projects)
+Users	40 million (Aug 2019)
+Launched	April 10, 2008; 12 years ago
+Current status	Active
+Written in	Ruby
+ECMAScript
+Go
+C [3]
+GitHub, Inc. is an American multinational corporation that provides hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.[4] Headquartered in California, it has been a subsidiary of Microsoft since 2018.[5]
+
+GitHub offers its basic services free of charge. Its more advanced professional and enterprise services are commercial.[6] Free GitHub accounts are commonly used to host open-source projects.[7] As of January 2019, GitHub offers unlimited private repositories to all plans, including free accounts, but allowed only up to three collaborators per repository for free.[8] Starting from April 15, 2020, the free plan allows unlimited collaborators, but restricts private repositories to 2,000 actions minutes per month.[9] As of January 2020, GitHub reports having over 40 million users[10] and more than 190 million repositories[11] (including at least 28 million public repositories),[12] making it the largest host of source code in the world.[13]
+
+
+Contents
+1	History
+1.1	Worldwide offices
+1.2	Acquisition by Microsoft
+2	Company affairs
+2.1	Organizational structure
+2.2	Finance
+2.3	Mascot
+3	Services
+3.1	GitHub.com
+3.1.1	Scope
+3.2	GitHub Enterprise
+3.3	GitHub Pages
+3.4	Gist
+3.5	Education program
+3.6	GitHub Marketplace service
+3.7	GitHub Sponsors
+4	GitHub Archive Program
+5	Controversies
+5.1	Harassment allegations
+5.2	Sanctions
+5.3	Censorship
+5.4	ICE Contract
+6	Developed projects
+7	Prominent users
+8	See also
+9	References
+10	External links
+History
+
+GitHub at AWS Summit
+The GitHub service was developed by Chris Wanstrath, P. J. Hyett, Tom Preston-Werner and Scott Chacon using Ruby on Rails, and started in February 2008. The company, GitHub, Inc., has existed since 2007 and is located in San Francisco.[14]
+
+
+The shading of the map illustrates the number of users as a proportion of each country's Internet population. The circular charts surrounding the two hemispheres depict the total number of GitHub users (left) and commits (right) per country.
+On February 24, 2009, GitHub announced that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month. At that time, about 6,200 repositories had been forked at least once and 4,600 had been merged.
+
+That same year, the site was harnessed by over 100,000 users, according to Github, and had grown to host 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.[15]
+
+In 2010, GitHub was hosting 1 million repositories.[16] A year later, this number doubled.[17] ReadWriteWeb reported that GitHub had surpassed SourceForge and Google Code in total number of commits for the period of January to May 2011.[18] On January 16, 2013, GitHub passed the 3 million users mark and was then hosting more than 5 million repositories.[19] By the end of the year, the number of repositories were twice as much, reaching 10 million repositories.[20]
+
+In 2012, GitHub raised $100 million in funding from Andreessen Horowitz with $750 million valuation.[21] Peter Levine, general partner at Andreessen Horowitz, stated that GitHub had been growing revenue at 300% annually since 2008 "profitably nearly the entire way".[22] On July 29, 2015, GitHub stated it had raised $250 million in funding in a round led by Sequoia Capital. Other investors of that round included Andreessen Horowitz, Thrive Capital, and IVP (Institutional Venture Partners).[23] The round valued the company at approximately $2 billion.[24]
+
+In 2016, GitHub was ranked No. 14 on the Forbes Cloud 100 list.[25] It has not featured on the 2018, 2019 and 2020 lists.[26]
+
+On February 28, 2018, GitHub fell victim to the second largest distributed denial-of-service (DDoS) attack in history, with incoming traffic reaching a peak of about 1.35 terabits per second.[27]
+
+On June 19, 2018, GitHub expanded its GitHub Education by offering free education bundles to all schools.[28][29]
+
+In early July 2020, the GitHub Archive Program was established, to archive its open source code in perpetuity (see below).[30]
+
+Worldwide offices
+In 2015, GitHub opened an office in Japan that is its first office outside of the U.S.[31] Five years later, GitHub launched in India under the name GitHub India Private Limited.[32]
+
+Acquisition by Microsoft
+From 2012 Microsoft became a significant user of GitHub, using it to host open-source projects and development tools such as .NET Core, Chakra Core, MSBuild, PowerShell, PowerToys, Visual Studio Code, Windows Calculator, Windows Terminal and the bulk of its product documentation (now to be found on Microsoft Docs).[33][34] On June 4, 2018, Microsoft announced its intent to acquire GitHub for US$7.5 billion. The deal closed on October 26, 2018.[35] GitHub continued to operate independently as a community, platform and business.[36] Under Microsoft, the service was led by Xamarin's Nat Friedman, reporting to Scott Guthrie, executive vice president of Microsoft Cloud and AI. GitHub's CEO, Chris Wanstrath, was retained as a "technical fellow", also reporting to Guthrie.
+
+There have been concerns from developers Kyle Simpson, JavaScript trainer and author, and Rafael Laguna, CEO at Open-Xchange over Microsoft's purchase, citing uneasiness over Microsoft's handling of previous acquisitions, such as Nokia's mobile business or Skype.[37][38]
+
+This acquisition was in line with Microsoft's business strategy under CEO Satya Nadella, which has seen a larger focus on the cloud computing services, alongside development of and contributions to open-source software.[39][5][34] Harvard Business Review argued that Microsoft was intending to acquire GitHub to get access to its user base, so it can be used as a loss leader to encourage use of its other development products and services.[40]
+
+Concerns over the sale bolstered interest in competitors: Bitbucket (owned by Atlassian), GitLab (a commercial open source product that also runs a hosted service version) and SourceForge (owned by BIZX, LLC) reported that they had seen spikes in new users intending to migrate projects from GitHub to their respective services.[41][42][43][44]
+
+In March 2020, GitHub announced that they are acquiring npm, a JavaScript packaging vendor, for an undisclosed sum of money.[45] The deal was closed on 15 April 2020.[46]
+
+Company affairs
+Organizational structure
+GitHub, Inc. was originally a flat organization with no middle managers; in other words, "everyone is a manager" (self-management).[47] Employees could choose to work on projects that interested them (open allocation), but salaries were set by the chief executive.[48][needs update]
+
+In 2014, GitHub, Inc. introduced a layer of middle management.[49]
+
+Finance
+GitHub.com was a bootstrapped start-up business, which in its first years provided enough revenue to be funded solely by its three founders and start taking on employees.[50] In July 2012, four years after the company was founded, Andreessen Horowitz invested $100 million in venture capital.[4] In July 2015 GitHub raised another $250 million of venture capital in a series B round. Investors were Sequoia Capital, Andreessen Horowitz, Thrive Capital and other venture capital funds.[51] As of August 2016, GitHub was making $140 million in Annual Recurring Revenue.[52]
+
+Mascot
+GitHub's mascot is an anthropomorphized "octocat" with five octopus-like arms.[53][54] The character was created by graphic designer Simon Oxley as clip art to sell on iStock,[55] a website that enables designers to market royalty-free digital images. GitHub became interested in Oxley's work after Twitter selected a bird that he designed for their own logo.[56] The illustration GitHub chose was a character that Oxley had named Octopuss.[55] Since GitHub wanted Octopuss for their logo (a use that the iStock license disallows), they negotiated with Oxley to buy exclusive rights to the image.[55]
+
+GitHub renamed Octopuss to Octocat,[55] and trademarked the character along with the new name.[53] Later, GitHub hired illustrator Cameron McEfee to adapt Octocat for different purposes on the website and promotional materials; McEfee and various GitHub users have since created hundreds of variations of the character, which are available on The Octodex.[57][58]
+
+Services
+GitHub.com
+Development of the GitHub.com platform began on October 19, 2007.[59][60][61] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon after it had been made available for a few months prior as a beta release.[62]
+
+Projects on GitHub.com can be accessed and managed using the standard Git command-line interface; all standard Git commands work with it. GitHub.com also allows users to browse public repositories on the site. Multiple desktop clients and Git plugins are also available. The site provides social networking-like functions such as feeds, followers, wikis (using wiki software called Gollum) and a social network graph to display how developers work on their versions ("forks") of a repository and what fork (and branch within that fork) is newest.
+
+Anyone can browse and download public repositories but only registered users can contribute content to repositories. With a registered user account, users are able to have discussions, manage repositories, submit contributions to others' repositories, and review changes to code. GitHub.com began offering unlimited private repositories at no cost in January 2019 (limited to three contributors per project). Previously, only public repositories were free.[63][64][65] On April 14, 2020, GitHub made "all of the core GitHub features" free for everyone, including "private repositories with unlimited collaborators".[66]
+
+The fundamental software that underpins GitHub is Git itself, written by Linus Torvalds, creator of Linux. The additional software that provides the GitHub user interface was written using Ruby on Rails and Erlang by GitHub, Inc. developers Wanstrath,[67] Hyett, and Preston-Werner.
+
+Scope
+
+This section is in list format, but may read better as prose. You can help by converting this section, if appropriate. Editing help is available. (August 2019)
+The main purpose of GitHub.com is to facilitate the version control and issue tracking aspects of software development. Labels, milestones, responsibility assignment, and a search engine are available for issue tracking. For version control, Git (and by extension GitHub.com) allows pull requests to propose changes to the source code. Users with the ability to review the proposed changes can see a diff of the requested changes and approve them. In Git terminology, this action is called "committing" and one instance of it is a "commit". A history of all commits are kept and can be viewed at a later time.
+
+In addition, GitHub supports the following formats and features:
+
+Documentation, including automatically rendered README files in a variety of Markdown-like file formats (see README § On GitHub)
+Wikis
+GitHub Actions, which allows building continuous integration and continuous deployment pipelines for testing, releasing and deploying software without the use of third-party websites/platforms
+Graphs: pulse, contributors, commits, code frequency, punch card, network, members
+Integrations Directory[68]
+Email notifications
+Option to subscribe someone to notifications by @ mentioning them.[69]
+Emojis[70]
+Nested task-lists within files
+Visualization of geospatial data
+3D render files that can be previewed using a new integrated STL file viewer that displays the files on a "3D canvas".[71] The viewer is powered by WebGL and Three.js.
+Photoshop's native PSD format can be previewed and compared to previous versions of the same file.
+PDF document viewer
+Security Alerts of known Common Vulnerabilities and Exposures in different packages
+GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the Open Source Definition. The terms of service state, "By setting your repositories to be viewed publicly, you agree to allow others to view and fork your repositories."[72]
+
+GitHub Enterprise
+GitHub Enterprise is a self-managed version of GitHub.com with similar functionality. It can be run on an organization's own hardware or on a cloud provider, and it has been available since November 2011.[73]
+
+GitHub Pages
+GitHub Pages is a static web hosting service offered by GitHub since 2008 to GitHub users for hosting user blogs, project documentation,[74][75] or even whole books created as a page.[76]
+
+All GitHub Pages content is stored in Git repository, either as files served to visitors verbatim or in Markdown format. GitHub is seamlessly integrated with Jekyll static web site and blog generator and GitHub continuous integration pipelines. Each time the content source is updated, Jekyll regenerates the website and automatically serves it via GitHub Pages infrastructure.[77]
+
+As with the rest of GitHub, it includes both free and paid tiers of service, instead of being supported by web advertising. Web sites generated through this service are hosted either as subdomains of the github.io domain, or as custom domains bought through a third-party domain name registrar.[78] When custom domain is set on a GitHub Pages repo a Let's Encrypt certificate for it is generated automatically. Once the certificate has been generated Enforce HTTPS can be set for the repository's website to transparently redirect all HTTP requests to HTTPS.[79][80]
+
+Gist
+GitHub also operates other services: a pastebin-style site called Gist[62] that is for hosting code snippets (GitHub proper is for hosting larger projects).
+
+Tom Preston-Werner presented the then-new Gist feature at a punk rock Ruby conference in 2008.[81] Gist builds on the traditional simple concept of a pastebin by adding version control for code snippets, easy forking, and TLS encryption for private pastes. Because each "gist" has its own Git repository, multiple code snippets can be contained in a single paste and they can be pushed and pulled using Git. Further, forked code can be pushed back to the original author in the form of a patch, so gists (pastes) can become more like mini-projects.[citation needed]
+
+Before February 18, 2018, unregistered users were able to upload text to the site. Since then, uploading gists has been deactivated for unregistered users with the aim to mitigate spamming.[82]
+
+Education program
+GitHub launched a new program called the GitHub Student Developer Pack to give students free access to popular development tools and services. GitHub partnered with Bitnami, Crowdflower, DigitalOcean, DNSimple, HackHands, Namecheap, Orchestrate, Screenhero, SendGrid, Stripe, Travis CI and Unreal Engine to launch the program.[83]
+
+In 2016 GitHub announced the launch of the GitHub Campus Experts program[84] to train and encourage students to grow technology communities at their universities. The Campus Experts program is open to university students of 18 years and older across the world.[85] GitHub Campus Experts are one of the primary ways that GitHub funds student oriented events and communities, Campus Experts are given access to training, funding, and additional resources to run events and grow their communities. To become a Campus Expert applicants must complete an online training course consisting of multiple modules designed to grow community leadership skills.
+
+GitHub Marketplace service
+GitHub also provides some software as a service integrations for adding extra features to projects. Those services include:
+
+Waffle.io: Project management for software teams. Automatically see pull requests, automated builds, reviews, and deployments across all of your repositories in GitHub.
+Rollbar: Integrate with GitHub to provide real time debugging tools and full-stack exception reporting. It is compatible with all well used code languages, such as JavaScript, Python, .NET, Ruby, PHP, Node.js, Android, iOS, Go, Java, and C#.
+Codebeat: For automated code analysis specialized in web and mobile developers. The supported languages for this software are: Elixir, Go, Java, Swift, JavaScript, Python, Ruby, Kotlin, Objective-C, and TypeScript.
+Travis CI: To provide confidence for your apps while doing test and ship. Also gives full control over the build environment, to adapt it to the code. Supported languages: Go, Java, JavaScript, Objective-C, Python, PHP, Ruby, and Swift.
+GitLocalize: Developed for teams that are translating their content from one point to another. GitLocalize automatically syncs with your repository so you can keep your workflow on GitHub. It also keeps you updated on what needs to be translated.
+GitHub Sponsors
+GitHub Sponsors allows users to make monthly money donations to projects hosted on GitHub.[86] The public beta was announced on May 23, 2019 and currently the project accepts wait list registrations. The Verge said that GitHub Sponsors "works exactly like Patreon" because "developers can offer various funding tiers that come with different perks, and they’ll receive recurring payments from supporters who want to access them and encourage their work" except with "zero fees to use the program". Furthermore, GitHub offer incentives for early adopters during the first year: it pledges to cover payment processing costs, and match sponsorship payments up to $5,000 per developer. Furthermore, users still can use other similar services like Patreon and Open Collective and link to their own websites.[87][88]
+
+GitHub Archive Program
+In July 2020, GitHub stored a February archive of the site[30] in an abandoned mountain mine in Svalbard, Norway, part of the Arctic World Archive and not far from the Svalbard Global Seed Vault. The archive contained the code of all active public repositories, as well as that of dormant, but significant public repositories. The 21TB of data was stored on piqlFilm archival film reels as QR codes, and is expected to last 500–1,000 years.[89][90][91][92]
+
+The GitHub Archive Program is also working with partners on Project Silica, in an attempt to store all public repositories for 10,000 years. It aims to write archives into the molecular structure of quartz glass platters, using a high-precision laser that pulses a quadrillion (1,000,000,000,000,000) times per second.[92]
+
+Controversies
+Harassment allegations
+In March 2014, GitHub programmer Julie Ann Horvath alleged that founder and CEO Tom Preston-Werner and his wife Theresa engaged in a pattern of harassment against her that led to her leaving the company.[93] In April 2014, GitHub released a statement denying Horvath's allegations.[94][95] However, following an internal investigation, GitHub confirmed the claims. GitHub's CEO Chris Wanstrath wrote on the company blog, "The investigation found Tom Preston-Werner in his capacity as GitHub's CEO acted inappropriately, including confrontational conduct, disregard of workplace complaints, insensitivity to the impact of his spouse's presence in the workplace, and failure to enforce an agreement that his spouse should not work in the office."[96] Preston-Werner subsequently resigned from the company.[97] The firm then announced it would implement new initiatives and trainings "to make sure employee concerns and conflicts are taken seriously and dealt with appropriately."[97]
+
+Sanctions
+On July 25, 2019, a developer based in Iran wrote on Medium about how GitHub blocked his private repositories, and prohibited access to GitHub Pages.[98] Soon after, GitHub confirmed that it was now blocking developers in Iran, Crimea, Cuba, North Korea, and Syria from accessing private repositories.[99] However, GitHub reopened access to GitHub Pages days later, for public repositories regardless of location. It was also revealed that using GitHub while visiting sanctioned countries could result in similar action occurring on a user's account. GitHub responded to complaints and the media through a spokesperson, saying:
+
+"GitHub is subject to US trade control laws, and is committed to full compliance with applicable law. At the same time, GitHub's vision is to be the global platform for developer collaboration, no matter where developers reside. As a result, we take seriously our responsibility to examine government mandates thoroughly to be certain that users and customers are not impacted beyond what is required by law. This includes keeping public repositories services, including those for open source projects, available and accessible to support personal communications involving developers in sanctioned regions."[100][101]
+
+Developers who feel that they should not have restrictions can appeal for the removal of said restrictions, including those who only travel to, and do not reside in, those countries. GitHub has forbidden the use of VPNs and IP proxies to access the site from sanctioned countries, as purchase history and IP addresses are how they flag users, among other sources.[102]
+
+Censorship
+Main article: Censorship of GitHub
+On December 3, 2014, Russia blacklisted GitHub.com because GitHub initially refused to take down user-posted suicide manuals.[103] After a day, Russia withdrew its block,[104] and Github began blocking to specific content and pages in Russia.[105] 28 days later, India blocked GitHub.com along with 31 other websites over pro-ISIS content posted by users.[106] India lifted the block on January 2, 2015.[107] On October 8, 2016, Turkey blocked GitHub to prevent email leakage of a hacked account belonging to the country's Energy Minister.[108]
+
+On March 26, 2015, a massive DDoS attack was launched against GitHub.com that lasted for more than 118 hours (a little less than 5 days).[109] The attack, which appeared to originate from China, primarily targeted GitHub-hosted user content describing methods of circumventing Internet censorship.[110][111][112]
+
+On April 19,2020, the Chinese police detained Chen Mei and Cai Wei, who are volunteers for Terminus 2049, and accused them of "picking quarrels and provoking trouble". Terminus2049 is hosted on GitHub. Cai and Chen archived news articles, interviews, and other materials published on Chinese media outlets and social media platforms that have been removed by censors in China. [113]
+
+ICE Contract
+GitHub has a $200,000 contract with U.S. Immigration and Customs Enforcement (ICE) for the use of their on-site product GitHub Enterprise Server. This contract was renewed in 2019, despite internal opposition from many GitHub employees. In an email sent to employees, later posted to the GitHub blog on October 9, 2019, CEO Nat Friedman stated "The revenue from the purchase is less than $200,000 and not financially material for our company." He announced that GitHub had pledged to donate $500,000 to "nonprofit groups supporting immigrant communities targeted by the current administration."[114] In response at least 150 GitHub employees signed an open letter re-stating their opposition to the contract, and denouncing alleged human rights abuses by ICE. As of November 13, 2019, five workers had resigned over the contract.[115][116][117]
+
+The ICE contract dispute came into focus again in June 2020 due to the company's decision to abandon "master/slave" branch terminology, spurred by the George Floyd protests and Black Lives Matter movement.[118] Detractors of GitHub describe the branch renaming to be a form of performative activism and have urged GitHub to cancel their ICE contract instead.[119] An open letter from members of the open source community was shared on GitHub in December 2019, demanding that the company drop their contract with ICE and provide more transparency into how they conduct business and partnerships. The letter has been signed by over 700 people.[120]
+
+Developed projects
+Atom, a free and open-source text and source code editor
+Electron, an open-source framework to use JavaScript-based websites as desktop applications.
+Prominent users
+Some prominent open source organizations and projects use GitHub as a primary place for collaboration, including:
+
+Apertium (migrated from SourceForge)
+The Apache Software Foundation[121] (finished migration in February 2019)[122][123]
+Node.js[124]
+npm[125]
+Express.js[126]
+MySQL[127]
+Microsoft[128]
+.NET Core[129]
+ASP.NET Core
+Visual Studio Code[130]
+TypeScript[131]
+Windows Calculator[132]
+Windows Console[133]
+Windows Terminal[133]
+Google[134]
+uBlock Origin[135]
+Bootstrap (front-end framework)[136]
+U.S. Immigration and Customs Enforcement[137]
+National Security Agency[138]
+See also
+icon	Computer programming portal
+	Free and open-source software portal
+Collaborative innovation network
+Collaborative intelligence
+Commons-based peer production
+Comparison of source code hosting facilities
+Gitea
+References
+ "GitHub Diversity". GitHub.
+ "github.com Competitive Analysis, Marketing Mix and Traffic - Alexa". www.alexa.com. Retrieved January 13, 2020.
+ "GitHub". GitHub. Retrieved September 6, 2020.
+ Williams, Alex (July 9, 2012). "GitHub Pours Energies into Enterprise – Raises $100 Million From Power VC Andreessen Horowitz". TechCrunch. Andreessen Horowitz is investing an eye-popping $100 million into GitHub
+ "Microsoft has acquired GitHub for $7.5B in stock". TechCrunch. Retrieved June 4, 2018.
+ "Why GitHub's pricing model stinks (for us)". LosTechies. November 7, 2012. Archived from the original on June 29, 2015. Retrieved June 29, 2015.
+ "The Problem With Putting All the World's Code in GitHub". Wired. June 29, 2015. Archived from the original on June 29, 2015. Retrieved June 29, 2015.
+ nat (January 7, 2019). "New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering". The GitHub Blog. Retrieved January 8, 2019.
+ "GitHub is now free for all teams". techcrunch.com. Archived from the original on May 1, 2020. Retrieved May 30, 2020.
+ "User search". GitHub. Retrieved January 29, 2019. Showing 40,206,691 available users
+ "Github Number of Repositories". GitHub. Retrieved October 5, 2020.
+ "Repository search for public repositories". GitHub. Retrieved June 5, 2018. Showing 28,177,992 available repository results
+ Gousios, Georgios; Vasilescu, Bogdan; Serebrenik, Alexander; Zaidman, Andy. "Lean GHTorrent: GitHub Data on Demand" (PDF). The Netherlands: Delft University of Technology & †Eindhoven University of Technology: 1. Retrieved July 9, 2014. During recent years, GITHUB (2008) has become the largest code host in the world.
+ Neumann, Alexander. "GitHub populärer als SourceForge und Google Code". heise Developer.
+ Dascalescu, Dan (November 3, 2009). "The PITA Threshold: GitHub vs. CPAN". Dan Dascalescu's Wiki.
+ "One Million Repositories, Git Official Blog". July 25, 2010.
+ "Those are some big numbers, Git Official Blog". April 20, 2011.
+ "Github Has Surpassed Sourceforge and Google Code in Popularity". During the period Black Duck examined, Github had 1,153,059 commits, Sourceforge had 624,989, Google Code and 287,901 and CodePlex had 49,839.
+ "Code-sharing site Github turns five and hits 3.5 million users, 6 million repositories". TheNextWeb.com. April 11, 2013. Retrieved April 11, 2013.
+ "10 Million Repositories". GitHub.com. December 23, 2013. Retrieved December 28, 2013.
+ "GitHub Pours Energies into Enterprise – Raises $100 Million From Power VC Andreessen Horowitz". TechCrunch. Retrieved February 7, 2020.
+ Levine, Peter (July 9, 2012). "Software Eats Software Development".
+ "GitHub Raises $250M Series B Round Led By Sequoia Capital". TechCrunch. Retrieved February 7, 2020.
+ "GitHub raises $250 million in new funding, now valued at $2 billion". Fortune. July 29, 2015.
+ "Forbes Cloud 100". Forbes. Retrieved October 31, 2016.
+ "GitHub". Forbes. Retrieved October 6, 2020.
+ "GitHub Survived the Biggest DDoS Attack Ever Recorded". Wired.com. Retrieved March 2, 2018.
+ Hughes, Matthew (June 19, 2018). "GitHub's free education bundle is now available to all schools". The Next Web. Retrieved July 2, 2018.
+ "GitHub Education is a free software development package for schools". Engadget. Retrieved July 2, 2018.
+ "GitHub Archive Program: the journey of the world's open source code to the Arctic". The GitHub Blog. July 16, 2020. Retrieved July 18, 2020.
+ "GitHub Expands To Japan, Its First Office Outside The U.S." TechCrunch. June 4, 2015.
+ Mehta, Ivan (February 12, 2020). "GitHub launches an Indian subsidiary to boost its developer community". The Next Web. Retrieved March 2, 2020.
+ "Microsoft confirms it will acquire GitHub for $7.5 billion". VentureBeat. June 4, 2018. Retrieved June 4, 2018.
+ "Microsoft confirms it will acquire GitHub for $7.5 billion". The Verge. Retrieved June 4, 2018.
+ Warren, Tom (October 26, 2018). "Microsoft completes GitHub acquisition". The Verge. Vox.
+ "Microsoft to acquire GitHub for $7.5 billion". Stories. June 4, 2018. Retrieved January 22, 2020.
+ Warren, Tom. "Here's what GitHub developers really think about Microsoft's acquisition". The Verge. Retrieved August 22, 2018.
+ Merriman, Chris. "Microsoft has snapped up GitHub and the internet has feelings | TheINQUIRER". The Inquirer. Retrieved August 22, 2018.
+ Horwitz, Josh. "GitHub users are already fuming about the company's sale to Microsoft". Quartz. Retrieved June 9, 2018.
+ "Why Microsoft Is Willing to Pay So Much for GitHub". Harvard Business Review. June 6, 2018. Retrieved June 9, 2018.
+ "10 reasons why teams are switching from GitHub to Bitbucket after Microsoft acquisition". Retrieved June 4, 2018.
+ Tung, Liam. "GitHub rivals gain from Microsoft acquisition but it's no mass exodus, yet". ZDNet. Retrieved June 9, 2018.
+ "If Microsoft buying GitHub freaks you out, here are your best alternatives". TechRepublic. Retrieved June 4, 2018.
+ "GitHub Importer". SourceForge. Retrieved June 12, 2018.
+ "GitHub is acquiring NPM, a service used by 12 million developers". Business Insider. March 16, 2020. Retrieved March 16, 2020.
+ Epling, Jeremy (April 15, 2020). "npm has joined GitHub". The GitHub Blog. GitHub, Inc.
+ Tomayko, Ryan (April 2, 2012). "Show How, Don't Tell What - A Management Style". Retrieved August 28, 2013.
+ Hardy, Quentin. "Dreams of 'Open' Everything". New York Times.
+ Evelyn, Rusli (July 17, 2014). "Harassment claims make startup GitHub grow up". The Wall Street Journal. Retrieved July 18, 2014.
+ Michael, Carney (June 20, 2013). "GitHub CEO explains why the company took so damn long to raise venture capital". PandoDaily. Retrieved July 10, 2014.
+ Lardinois, Frederic. "GitHub Raises $250M Series B Round To Take Risks". TechCrunch. Retrieved July 4, 2016.
+ Plassnig, Moritz. "GitHub is making $140M in ARR". Medium. Archived from the original on October 26, 2019. Retrieved December 19, 2016.
+ "GitHub Octodex FAQ". github.com. Archived from the original on November 14, 2016. Retrieved September 21, 2015.
+ Jaramillo, Tony (November 24, 2014). "From Sticker to Sculpture: The making of the Octocat figurine". The GitHub Blog. GitHub. Retrieved April 19, 2017.
+ DeAmicis, Carmel (July 8, 2013). "Original GitHub Octocat designer Simon Oxley on his famous creation: "I don't remember drawing it"". PandoDaily. Retrieved April 19, 2017.
+ Campbell-Dollaghan, Kelsey (April 26, 2013). "Meet the Accidental Designer of the GitHub and Twitter Logos". Co.Design. Fast Company. Retrieved April 19, 2017.
+ McEfee, Cameron (May 12, 2016). "The Octocat—a nerdy household name". CameronMcEfee.com. Cameron McEfee. Retrieved April 19, 2017.
+ Goldman, David. "What IS that thing behind Satya Nadella in the GitHub photo?". CNNMoney. Retrieved July 19, 2018.
+ Weis, Kristina (February 10, 2014). "GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri's DevSummit!". in 2007 they began working on GitHub as a side project
+ Preston-Werner, Tom (October 19, 2008). "GitHub Turns One!". GitHub. Retrieved March 28, 2014.
+ Wanstrath, Chris (December 7, 2009). "The ﬁrst commit was on a Friday night in October, around 10 pm". Retrieved November 4, 2017.
+ Catone, Josh (July 24, 2008). "GitHub Gist is Pastie on Steroids". GitHub hosts about 10,000 projects and officially launched in April of this year after a beta period of a few months.
+ "Microsoft-Owned GitHub Just Made It Free for Coders to Keep Projects Private in Small Teams". Fortune. Retrieved June 13, 2019.
+ Zhou, Marrian. "GitHub is giving free users unlimited private repositories". CNET. Retrieved June 13, 2019.
+ Chan, Rosalie. "GitHub makes its first major move since Microsoft bought it for $7.5 billion — and it's something customers have long been asking for". Business Insider. Retrieved June 13, 2019.
+ Friedman, Nat. "GitHub is now free for teams". github.blog. Archived from the original on April 14, 2020.
+ "Interview with Chris Wanstrath". Doeswhat.com. March 6, 2012. Retrieved February 26, 2013.
+ "Integrations Directory". GitHub. Retrieved April 30, 2016.
+ "Mention @somebody. They're notified". GitHub. Retrieved April 30, 2016.
+ "Github Help / Categories / Writing on GitHub". Github.com. Retrieved April 30, 2016.
+ Weinhoffer, Eric (April 9, 2013). "GitHub Now Supports STL File Viewing".
+ "GitHub Terms of Service - User Documentation". Help.github.com. February 11, 2016. Retrieved December 5, 2016.
+ https://github.blog/2011-11-01-introducing-github-enterprise/
+ Bell, Peter; Beer, Brent (November 11, 2014). Introducing GitHub: A Non-Technical Guide. "O'Reilly Media, Inc.". ISBN 9781491949832.
+ Pipinellis, Achilleas (September 30, 2015). GitHub Essentials. Packt Publishing Ltd. ISBN 9781783553723.
+ Xie, Yihui (December 12, 2016). bookdown: Authoring Books and Technical Documents with R Markdown. CRC Press. ISBN 9781351792608.
+ "Build A Blog With Jekyll And GitHub Pages". Smashing Magazine. August 1, 2014. Retrieved June 15, 2019.
+ Sawant, Uday R. (June 30, 2016). Ubuntu Server Cookbook. Packt Publishing Ltd. ISBN 9781785887987.
+ All GitHub Pages sites, including sites that are correctly configured with a custom domain, support HTTPS and HTTPS enforcement."Securing your GitHub Pages site with HTTPS". help.github.com. GitHub. Retrieved June 1, 2020.
+ Custom domains on GitHub Pages gain support for HTTPS.Parker Moore (May 1, 2018). "Custom domains on GitHub Pages gain support for HTTPS". github.blog. GitHub. Retrieved June 1, 2020.
+ Preston-Werner, Tom (July 20, 2008). God's memory leak - a scientific treatment. RubyFringe. Retrieved October 21, 2014. He previewed the upcoming git feature gist
+ "Deprecation notice: Removing anonymous gist creation". The GitHub Blog. February 19, 2018. Retrieved September 30, 2020.
+ Lardinois, Frederic (October 7, 2014). "GitHub Partners With Digital Ocean, Unreal Engine, Others To Give Students Free Access To Developer Tools". TechCrunch. Retrieved October 7, 2014.
+ "GitHub Campus Experts - Technology leadership at your school". The GitHub Blog. June 25, 2016. Retrieved January 22, 2019.
+ "GitHub Campus Experts". GitHub Education. Retrieved January 22, 2019.
+ https://github.com/sponsors
+ Kastrenakes, Jacob (May 23, 2019). "GitHub launches Sponsors, a Patreon-style funding tool for developers". The Verge. Retrieved May 24, 2019.
+ "Announcing GitHub Sponsors: a new way to contribute to open source". The GitHub Blog. May 23, 2019. Retrieved May 24, 2019.
+ "GitHub Has Stored Its Code in an Arctic Vault It Hopes Will Last 1,000 Years". Gizmodo. Retrieved July 18, 2020.
+ Canales, Katie (July 18, 2020). "GitHub, the world's largest open-source software site, just had mounds of data stored in the permafrost chamber of an old coal mine deep in an Arctic mountain for 1,000 years". MSN. Microsoft.
+ Truong, Kevin (July 17, 2020). "21 Terabytes of Open Source Code Is Now Stored in an Arctic Vault". Vice.com. Vice Media.
+ Byrne, Nate (August 12, 2020). "Buried deep in the ice is the GitHub code vault". ABC News. Australian Broadcasting Corporation. Retrieved August 13, 2020.
+ Biddle, Sam; Tiku, Nitasha (17 March 2014). "Meet the Married Duo Behind Tech's Biggest New Harassment Scandal". Vallywag. Gawker. Archived from the original on March 17, 2014. Retrieved March 17, 2014.
+ Miller, Claire Cain (April 21, 2014). "GitHub Founder Resigns After Investigation". Bits. The New York Times.
+ Wilhelm, Alex (April 21, 2014). "GitHub Denies Allegations Of "Gender-Based Harassment," Co-Founder Preston-Werner Resigns". TechCrunch.
+ "Follow up to the investigation results". April 28, 2014.
+ McMillan, Robert (April 21, 2014). "GitHub Founder Steps Down After Harassment Probe". Wired. ISSN 1059-1028. Retrieved October 12, 2020.
+ Saeedi Fard, Hamed (July 29, 2019). "GitHub blocked my account and they think I'm developing nuclear weapons". Medium. Retrieved August 12, 2019.
+ "GitHub confirms it has blocked developers in Iran, Syria and Crimea". TechCrunch. Retrieved August 10, 2019.
+ Tung, Liam. "GitHub starts blocking developers in countries facing US trade sanctions". ZDNet. Retrieved August 10, 2019.
+ Porter, Jon (July 29, 2019). "GitHub restricts developer accounts based in Iran, Crimea, and other countries under US sanctions". The Verge. Retrieved August 10, 2019.
+ "GitHub and Trade Controls - GitHub Help". help.github.com. Retrieved August 12, 2019.
+ "Russia Blacklists, Blocks GitHub Over Pages That Refer to Suicide". TechCrunch.
+ McMillan, Robert. "Russia's Creeping Descent Into Internet Censorship". WIRED. Retrieved June 3, 2018.
+ "To Get Off Russia's Blacklist, GitHub Has Blocked Access To Pages That Highlight Suicide". TechCrunch. Retrieved October 12, 2020.
+ "GitHub, Vimeo and 30 more sites blocked in India over content from ISIS". The Next Web. December 31, 2014.
+ Wright, Mic (January 2, 2015). "India Lifts Blocks On Github, Weebly, Dailymotion And Vimeo". The Next Web. Retrieved October 12, 2020.
+ "Turkey blocked GitHub and Dropbox to hide leaks – reports".
+ "Large Scale DDoS Attack on github.com". GitHub. March 27, 2015. Retrieved March 31, 2015.
+ "Last night, GitHub was hit with massive denial-of-service attack from China". The Verge. March 27, 2015. Retrieved March 27, 2015.
+ "U.S. Coding Website GitHub Hit With Cyberattack". The Wall Street Journal. March 29, 2015. Retrieved March 29, 2015.
+ "Massive denial-of-service attack on GitHub tied to Chinese government". Ars Technica. March 31, 2015. Retrieved April 1, 2015.
+ Human Rights Watch. "China: Free Covid-19 Activists, 'Citizen Journalists'". Archived from the original on August 27, 2020. Retrieved August 27, 2020.
+ "GitHub and US Government developers". The GitHub Blog. GitHub. October 9, 2019.
+ "As GitHub's Conference Begins, Five Employees Resign Over ICE Contract". Vice. Vice. November 13, 2019.
+ Ghaffary, Shirin (October 9, 2019). "GitHub is the latest tech company to face controversy over its contracts with ICE". Vox.
+ "Letter from GitHub employees to CEO about the company's ICE contract". Washington Post.
+ "Microsoft's GitHub drops master-slave jargon". BBC News. June 15, 2020. Retrieved July 1, 2020.
+ "After GitHub CEO backs Black Lives Matter, workers demand an end to ICE contract". Los Angeles Times. June 13, 2020. Retrieved July 1, 2020.
+ "The Open Source Community Is Calling on Github to 'Drop ICE'". www.vice.com. Retrieved October 19, 2020.
+ "The Apache Software Foundation". GitHub.
+ "Apache Software Foundation joins GitHub open source community". The GitHub Blog. April 29, 2019. Retrieved May 24, 2019.
+ "The Apache® Software Foundation Expands Infrastructure with GitHub Integration : The Apache Software Foundation Blog". blogs.apache.org. Retrieved May 24, 2019.
+ "Node.js". GitHub.
+ "npm". GitHub.
+ "expressjs". GitHub.
+ "mysqljs". GitHub.
+ "Microsoft". GitHub.
+ "This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation". GitHub.
+ "Visual Studio Code". GitHub. Microsoft. August 26, 2019.
+ "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.: microsoft/TypeScript". GitHub.
+ "Windows Calculator: A simple yet powerful calculator that ships with Windows: microsoft/calculator". GitHub.
+ "The new Windows Terminal, and the original Windows console host -- all in the same place!: microsoft/terminal". GitHub.
+ "Google". GitHub.
+ "uBlock Origin: An efficient blocker for Chromium and Firefox. Fast and lean. - gorhill/uBlock".
+ "Bootstrap". GitHub.
+ "GitHub and US Government developers".
+ "NationalSecurityAgency". GitHub.
